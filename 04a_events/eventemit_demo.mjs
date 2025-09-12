@@ -1,4 +1,4 @@
-var Message =  require('./message');
+var Message =  require('./message.mjs');
 
 // function approach
 // var results = function();
